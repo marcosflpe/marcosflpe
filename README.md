@@ -18,4 +18,8 @@ Sou o **Marcos Felipe**, desenvolvedor **Front-End**, focado em criar interfaces
 
 ### 📊 Linguagens mais usadas:
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcosflpe&layout=compact&theme=tokyonight)
+- HTML5
+- CSS3
+- JavaScript
+
+📌 Focado em Front-End e criação de projetos práticos.
