@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :sunglasses:
 
 Eu sou o Marcos Felipe, sou um programador Front End, atualmente estou aprendendo e construindo projetos com:
 
