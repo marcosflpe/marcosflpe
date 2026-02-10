@@ -12,4 +12,7 @@ Eu sou o Marcos Felipe, sou um programador Front End, atualmente estou aprendend
   <a src="https://www.instagram.com/marcos_flpe/">
    <img align="left" alt"icone do instagram uma caixa dentro de um quadrado" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </a>
+ <a src="https://www.linkedin.com/in/marcos-felipe-ferreira-5860263a6/">
+  <img align="left" alt"icone do Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
 </p>
